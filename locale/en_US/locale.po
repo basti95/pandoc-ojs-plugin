@@ -1,0 +1,5 @@
+msgid "plugins.generic.pandocTransformatorSLUB.displayName"
+msgstr "Plugin Description Englisch"
+
+msgid "plugins.generic.pandocTransformatorSLUB.test"
+msgstr "Test Button Englisch"

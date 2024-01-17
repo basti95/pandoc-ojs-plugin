@@ -1,0 +1,5 @@
+msgid "plugins.generic.pandocTransformatorSLUB.displayName"
+msgstr "Dieses Plugin soll der Konvertierung von .docx-Dateien zu EPUB, PDF und co. dienen. Test"
+
+msgid "plugins.generic.pandocTransformatorSLUB.test"
+msgstr "Produziere PDF"
